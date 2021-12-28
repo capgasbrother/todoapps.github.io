@@ -1,0 +1,15 @@
+.hero-body {
+    background-color: rgb(0, 133, 167);
+    height: 12rem;
+    padding: 25px;
+    margin-top: 3rem;
+    color: #ffff;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.list:hover {
+    cursor: pointer;
+}
